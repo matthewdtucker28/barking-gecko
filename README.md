@@ -83,7 +83,6 @@ Reads `data/BarkingGecko_Final_Data_Sheet.xlsx` and writes to `analysis/output/`
 | Fig 5, response time by playback treatment | `playback_figures.R` | Playback |
 | Table 1, Tukey HSD of temperature between nights | `tukey_table.R`, `tukey_table_latex.R` | HOBO |
 | Table 2, min/max temperature by habitat and night | `temp_range_table_latex.R`, `temp_range_table.R` | HOBO |
-| Mixed-model statistics (printed to console) | `temp_stats.R` | HOBO_Processed |
 
 Tables are produced as PNG, CSV and LaTeX (`.tex` plus a standalone compilable version). Scripts read workbook columns by position, so if you add or reorder columns in a tab, update the matching `read_tab()` call in that script.
 
