@@ -1,4 +1,4 @@
-# Barking Gecko Acoustics
+# Barking Gecko
 
 Code and data for a passive acoustic monitoring (PAM) study of barking geckos (*Ptenopus*) across three habitats (Gravel Plains, River Bed, Sand Sea), plus a playback experiment, temperature loggers and burrow counts.
 
@@ -93,4 +93,4 @@ Tables are produced as PNG, CSV and LaTeX (`.tex` plus a standalone compilable v
 
 ## License
 
-The code is released under the MIT License (see `LICENSE`). A license for the data has not been chosen yet.
+Released under the MIT License (see `LICENSE`).
