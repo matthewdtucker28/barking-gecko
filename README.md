@@ -93,4 +93,4 @@ Tables are produced as PNG, CSV and LaTeX (`.tex` plus a standalone compilable v
 
 ## License
 
-No license has been chosen yet.
+The code is released under the MIT License (see `LICENSE`). A license for the data has not been chosen yet.
