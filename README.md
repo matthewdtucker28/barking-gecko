@@ -2,6 +2,8 @@
 
 Code and data for a passive acoustic monitoring (PAM) study of barking geckos (*Ptenopus*) across three habitats (Gravel Plains, River Bed, Sand Sea), plus a playback experiment, temperature loggers and burrow counts.
 
+Paper: [*What Does the Gecko Say? Niche Partitioning & Interspecific Competition in Southern African Barking Geckos*](paper/What_Does_the_Gecko_Say.pdf)
+
 The repo has two independent parts:
 
 | Folder | What it does |
